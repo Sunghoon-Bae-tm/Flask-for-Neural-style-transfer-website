@@ -1,9 +1,3 @@
-Go to https://sunghoon.pythonanywhere.com to try out this web app.
-
-Note: might take a little time to load
-
-You can upload an image or a few images and select an art style that can be applied to this image.
-
 # Neural style transfer website using deep learning
 Use Flask to create a website that transforms the style of a picture into an artist's style 
 
