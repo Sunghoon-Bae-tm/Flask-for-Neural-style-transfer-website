@@ -11,4 +11,4 @@ Use Flask to create a website that transforms the style of a picture into an art
 (https://github.com/Reine0017/pyFlaskOpenCV)
 
 # Implementation
-<img src="NST.PNG" width="700">
+![NST](https://user-images.githubusercontent.com/75243173/168415361-181f43c2-0a38-4584-aadd-fcecf8740d90.PNG)
